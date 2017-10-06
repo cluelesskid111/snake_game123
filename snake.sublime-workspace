@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"gridNum"
+			],
+			[
+				"winfo_",
+				"winfo_width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"hea",
+				"head_position"
+			],
+			[
+				"positio",
+				"head_position"
+			],
+			[
+				"gue",
+				"guess_row"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"wor",
+				"wordList"
+			],
+			[
+				"a",
+				"alreadyGuessedLetters"
+			],
+			[
+				"le",
+				"letter"
+			],
+			[
+				"ha",
+				"HANGMANPICS"
+			],
+			[
+				"m",
+				"myWord"
+			],
+			[
+				"c",
+				"correctLetters"
+			],
+			[
+				"Han",
+				"HANGMANPICS"
+			],
+			[
+				"bear",
+				"bear_moved"
+			],
+			[
+				"be",
+				"bear_moved"
+			],
+			[
+				"bad",
+				"badCollision"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ArthurHo/Desktop/snake.js",
+		"/Users/ArthurHo/snake.html",
+		"/Users/ArthurHo/snake.js",
+		"/Users/ArthurHo/snake.css",
+		"/Users/ArthurHo/Desktop/poop.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys/event.h",
+		"/Users/ArthurHo/snake.py",
+		"/Users/ArthurHo/Documents/py.py",
+		"/Users/ArthurHo/ttt.py",
+		"/Users/ArthurHo/Desktop/ac301/guessgame.py",
+		"/Users/ArthurHo/Desktop/ac301/Bla.py",
+		"/Users/ArthurHo/Desktop/ac301/cointoss.py",
+		"/Users/ArthurHo/Desktop/ac301/battleshipV2Skeleton.py",
+		"/Users/ArthurHo/Desktop/battleshipV2Skeleton.py",
+		"/Users/ArthurHo/Desktop/ac301/import string.py",
+		"/Users/ArthurHo/Desktop/ac301/lesson9.py",
+		"/Users/ArthurHo/Desktop/ac301/lesson8.py",
+		"/Users/ArthurHo/poop.py",
+		"/Users/ArthurHo/Desktop/ac301/lesson4.py",
+		"/Users/ArthurHo/Desktop/ac301/Lesson3.py",
+		"/Users/ArthurHo/Desktop/ac301/lesson2.py",
+		"/Users/ArthurHo/lesson1.py",
+		"/Users/ArthurHo/hello.py",
+		"/Users/ArthurHo/Desktop/AX204/Phaser/app.js",
+		"/Users/ArthurHo/Desktop/AX204/Phaser/style.css",
+		"/Users/ArthurHo/Desktop/AX204/Phaser/index.html",
+		"/Users/ArthurHo/Desktop/AX204/Phaser/phaser.min.js",
+		"/Users/ArthurHo/Downloads/phaser.min.js",
+		"/Users/ArthurHo/Desktop/AX205/CanvasShapes/style.css",
+		"/Users/ArthurHo/Desktop/AX205/CanvasShapes/index.html",
+		"/Users/ArthurHo/Desktop/AX205/CanvasShapes/app.js",
+		"/Users/ArthurHo/Desktop/HTML5/draw.js",
+		"/Users/ArthurHo/Desktop/HTML5/style.css",
+		"/Users/ArthurHo/Desktop/HTML5/index.html",
+		"/Users/ArthurHo/Desktop/AX205/HTML5/myblog/draw.js",
+		"/Users/ArthurHo/Desktop/AX205/HTML5/myblog/style.css",
+		"/Users/ArthurHo/Desktop/AX205/HTML5/myblog/index.html",
+		"/Users/ArthurHo/Desktop/HTML5/file.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stars",
+			"collectstars",
+			"enemy1",
+			";\n",
+			"enemy1",
+			");"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "snake.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
